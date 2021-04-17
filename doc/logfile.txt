@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.6.0_37\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi
+-d
+C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi\doc
+-encoding
+windows-1255
+-charset
+windows-1255
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi\Opengame.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi\Opengame.java...
+C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi\Opengame.java:42: ')' expected
+if(string
+         ^
+C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi\Opengame.java:43: illegal start of expression
+}
+^
+C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi\Opengame.java:43: ';' expected
+}
+ ^
+C:\Users\OMRI\Desktop\עיצוב סופי 3\reversi\Opengame.java:61: reached end of file while parsing
+}
+ ^
+4 errors

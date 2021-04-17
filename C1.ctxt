@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=player1\ date\ score
+comment0.target=C1(java.lang.String,\ java.lang.String,\ int)
+comment1.params=newScore
+comment1.target=void\ setScore(int)
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=newDate
+comment3.target=void\ setDate(java.lang.String)
+comment4.params=newplayer1
+comment4.target=void\ setPlayer1(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getPlayer1()
+comment6.params=
+comment6.target=java.lang.String\ getDate()
+numComments=7

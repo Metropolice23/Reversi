@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mainframe()
+comment1.params=lvl
+comment1.target=void\ setlvl(java.lang.String)
+comment2.params=clock
+comment2.target=void\ setclock(java.lang.String)
+numComments=3

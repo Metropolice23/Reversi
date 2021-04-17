@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Scorelist
+comment1.params=
+comment1.target=Scorelist()
+comment2.params=score\ player1
+comment2.target=boolean\ checkscore(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ getScores()
+comment4.params=
+comment4.target=void\ saveScores()
+numComments=5

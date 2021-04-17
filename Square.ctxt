@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Square(int,\ int)
+comment1.params=newColor
+comment1.target=void\ setColor(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=newX
+comment3.target=void\ setSquareX(int)
+comment4.params=newY
+comment4.target=void\ setSquareY(int)
+comment5.params=
+comment5.target=int\ getSquareX()
+comment6.params=
+comment6.target=int\ getSquareY()
+numComments=7

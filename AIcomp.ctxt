@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=gameboard
+comment0.target=AIcomp(Gameboard)
+comment1.params=
+comment1.target=boolean\ corners()
+comment2.params=
+comment2.target=boolean\ sides()
+comment3.params=
+comment3.target=boolean\ content()
+numComments=4
