@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Historical Game Project 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Reversi Game
+PURPOSE OF PROJECT: High School Final Project
+VERSION or DATE: June, 2013
+HOW TO START THIS PROJECT: mainframe
+AUTHORS: Omri Shur
